@@ -1,0 +1,7 @@
+Vendor: Acme Supplies Co.
+Item: Office Laptops
+Unit Price: 1200.00
+Quantity: 10
+Total Price: 12000.00
+Delivery Days: 14
+Warranty: 2 years

@@ -1,0 +1,7 @@
+Vendor: TechDirect Inc.
+Item: Office Laptops
+Unit Price: 1150.00
+Quantity: 10
+Total Price: 11500.00
+Delivery Days: 10
+Warranty: 1 year

@@ -1,0 +1,7 @@
+Vendor: Global IT Partners
+Item: Office Laptops
+Unit Price: 1180.00
+Quantity: 10
+Total Price: 11800.00
+Delivery Days: 7
+Warranty: 3 years

@@ -1,0 +1,7 @@
+Vendor: ValueTech Supply
+Item: Office Laptops
+Unit Price: 1080.00
+Quantity: 10
+Total Price: 10800.00
+Lead Time Days: 21
+Warranty: 90 days
