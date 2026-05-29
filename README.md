@@ -2,7 +2,7 @@
 
 An end-to-end AI-powered procurement pipeline that automates vendor sourcing, budget validation, approval routing, PO generation, and invoice matching — with a human-in-the-loop checkpoint for high-value requests.
 
-**Live Demo:** [YOUR_VERCEL_URL] &nbsp;|&nbsp; **API Docs:** [YOUR_RENDER_URL]/docs &nbsp;|&nbsp; **GitHub:** [github.com/HarshitB0409/procurement-automation](https://github.com/HarshitB0409/procurement-automation)
+**Live Demo:** [https://procurement-automation-taupe.vercel.app/] &nbsp;|&nbsp; **API Docs:** [https://procurement-automation.onrender.com]/docs &nbsp;|&nbsp; **GitHub:** [github.com/HarshitB0409/procurement-automation](https://github.com/HarshitB0409/procurement-automation)
 
 ---
 
